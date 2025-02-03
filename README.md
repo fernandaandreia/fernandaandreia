@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fernandaandreia
-- 👀 I’m interested in iOS Development and Product Owner
-- 🌱 I’m currently learning iOS Development and Scrum
-- 💞️ I’m looking to collaborate on iOS Projects
+- 👀 I’m interested in Product Management, Business Analysis and Scrum
+- 🌱 I’m currently learning Product Management, OKRs and Project Management
 - 📫 How to reach me Linkedin: Fernanda Nascimento
 
 <!---
